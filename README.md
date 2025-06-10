@@ -12,3 +12,4 @@ Na última seção, Perfil do Investidor, o usuário deve informar se possui per
 
 A segunda parte dessa seção exibe gráfico em pizza, com as frações sugeridas para cada segmento de FII.
 
+[Investimento em FII.xlsx](https://github.com/user-attachments/files/20680297/Investimento.em.FII.xlsx)
